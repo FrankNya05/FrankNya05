@@ -24,7 +24,7 @@ I enjoy building systems that connect hardware and software, from VHDL architect
 - Git/GitHub, VS Code, Linux
 
 ### Machine Learning & Signal Processing
-- Basic supervised learning (e.g. KNN, simple classifiers)
+- Supervised learning 
 - Feature extraction for signals (audio/time-series)
 - Data preprocessing and experimentation in Python/MATLAB
 
@@ -32,12 +32,12 @@ I enjoy building systems that connect hardware and software, from VHDL architect
 
 ## 💬 Get in Touch
 I'm always open to discuss:
+- Technical internships
+- Collaborative projects 
 - Embedded systems  
 - FPGA/VHDL  
-- Machine learning for signals or embedded systems  
-- Technical internships  
-- Collaborative projects  
-
+- Machine learning 
+  
 **📧 Email:** *armandnya44@gmail.com*  
 
 ---
