@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Frank — Embedded Systems, FPGA & ML Enthusiast
 
+![School](https://img.shields.io/badge/UQTR-Université_du_Québec_à_Trois_Rivières-00693E?style=flat&logo=gradle&logoColor=white)
+![Location](https://img.shields.io/badge/Trois_Rivi%C3%A8res-Quebec-1D3557?style=flat&logo=google-maps&logoColor=white)
+![Internship](https://img.shields.io/badge/Internship-Open-brightgreen?style=flat&logo=handshake&logoColor=white)
+
 I’m a Computer Engineering student passionate about **embedded systems**, **FPGA design**, and **low-level programming**.  
-I also have a growing interest in **machine learning applied to signals and embedded systems**.  
+I also have a growing interest in **machine learning and deep learning**.  
 I enjoy building systems that connect hardware and software, from VHDL architectures to microcontroller firmware and data-driven applications.
 
 ---
@@ -9,18 +13,17 @@ I enjoy building systems that connect hardware and software, from VHDL architect
 ## 🔧 Technical Focus
 
 ### Embedded Systems
-- ARM Cortex-M development (STM32 – I2C, SPI, UART, PWM, ADC)
+- STM32 embedded development (I2C, SPI, UART, PWM, ADC)
 - Real-time systems and hardware abstraction  
 - Sensor integration and communication protocols
 
 ### FPGA & Digital Design
 - VHDL architecture design  
-- Datapaths, ALUs, control units  
 - Simulation & verification (testbenches)
 
 ### Programming & Tools
 - **C**, **Python**, **MATLAB**, **VHDL**
-- STM32CubeIDE, Vivado, ModelSim  
+- STM32CubeIDE, Vivado 
 - Git/GitHub, VS Code, Linux
 
 ### Machine Learning & Signal Processing
